@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 kurac
 kurac2
+=======
+newfilejhgdkhgd
+>>>>>>> newfile
